@@ -70,7 +70,7 @@
 |https://t.me/ddossatmak|ONLINE| DDoS Services |
 |https://t.me/DWI_OFFICIAL|OFFLINE| |
 |https://t.me/ehdanstock|ONLINE| Selling Accounts |
-|https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |
+|https://t.me/EternityMalwareTeam|ONLINE| Eternity Malware |23d929e07ef9d6854d1b285ca95344
 |https://t.me/exploit_db_com|OFFLINE| Exploits |
 |https://t.me/flannels|ONLINE| Market |
 |https://t.me/fr33d4t4|ONLINE| Fr33 d4t4 - stolen redline from other channels|
@@ -315,3 +315,7 @@
 |https://t.me/best_cracking_soft|ONLINE|Illicit Service|
 |https://t.me/MAilAccessCracker|ONLINE|Free Data Breaches Provider|
 |https://t.me/king_0f_cracking|ONLINE|Free Data Breaches, cracking tools and proxy lists Provider|
+|https://t.me/TeamDemon|ONLINE|Illicit Service|
+|https://t.me/HQPROX|ONLINE|Proxy service|
+|https://t.me/HQ_COMBO|ONLINE|Data Breaches Provider|
+|https://t.me/HQCracking|ONLINE|Data Breaches Provider|
